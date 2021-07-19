@@ -31,28 +31,22 @@ html {
 body {
     font: normal 1.3em var(--fonte-texto);
     background-color: var(--cor1);
-
     width: 100vw;
 
 }
 
 header {
     padding: 3rem;
-
-
     font-size: 1.8rem;
     text-align: center;    
-
     color: white;
     text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.466);
-
     background: var(--cor5);
     background-image: linear-gradient(0deg, var(--cor5), var(--cor3));    
 }
 
 header h1{
     font: normal 4rem var(--fonte-destaque);
-
     margin-bottom: 1rem;
 }
 
@@ -92,7 +86,6 @@ nav a:hover {
 main {
     max-width: 100rem;
     margin: auto;
-
     padding: 1.5rem;
     border-radius: 0 0 1rem 1rem;
     background-color: white;
@@ -101,7 +94,6 @@ main {
 
 main h1 {
     font: normal 3rem var(--fonte-android);
-
     color: var(--cor4);
     margin: 1rem 0;
 }
@@ -110,10 +102,8 @@ main h2 {
     font: normal 2rem var(--fonte-android);
     color: var(--cor4);
     text-indent: 1.5rem;
-
     background: var(--cor0);
     background-image: linear-gradient(90deg, var(--cor0), white);   
-
     margin: 1rem 0;
 }
 
@@ -140,9 +130,7 @@ main a.link::after {
 main img {
     display: block;
     margin: 2rem auto;
-    /* height: 100%; */
     width: 55%;
-
 }
 
 main picture img {
@@ -156,7 +144,6 @@ div.video {
     margin: 1rem 0rem;
     margin-left: -15px;
     margin-right: -15px;
-
     position: relative;
     display: flex;
     justify-content: center;
@@ -179,8 +166,6 @@ aside h3 {
     background-color: var(--cor3);
     border-radius: 1rem 1rem 0 0;
     padding: 1rem;
-
-    /* font: bold 1.5rem var(--fonte0); */
     color: white;  
 }
 
@@ -193,7 +178,6 @@ aside ul {
     list-style-type: '\2714\0020\0020';
     columns: 2;
     list-style-position: inside;
-
     padding: .5rem;
 }
 
@@ -202,7 +186,6 @@ footer {
     color: white;
     text-align: center;
     width: 100%;
-
     margin-top: .8rem;
     padding: 0.3rem;
 }
