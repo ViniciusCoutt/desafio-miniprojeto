@@ -8,4 +8,4 @@ Mini projeto da serie de videos do Guanabara sobre <strong>HTML</strong> e <stro
 
 <h1>Página mobile</h1>
 
-<center><img src="imagens/mobile.jpeg" alt="Página mobile inteira"></center>
+<img align="center" src="imagens/mobile.jpeg" alt="Página mobile inteira">
