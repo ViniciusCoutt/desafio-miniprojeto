@@ -1,4 +1,4 @@
-# desafio-miniprojeto
+# Desafio Miniprojeto
 Mini projeto da serie de videos do Guanabara sobre <strong>HTML</strong> e <strong>CSS</strong>. Pratiquei a utilização de variáveis no CSS e toda construção de forma responsiva.
 
 
@@ -8,4 +8,4 @@ Mini projeto da serie de videos do Guanabara sobre <strong>HTML</strong> e <stro
 
 <h1>Página mobile</h1>
 
-<img align="center" src="imagens/mobile.jpeg" alt="Página mobile inteira">
+<img src="imagens/mobile.jpeg" alt="Página mobile inteira">
